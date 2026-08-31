@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0001-two-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
