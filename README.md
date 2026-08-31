@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0876-middle-of-the-linked-list) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0876-middle-of-the-linked-list) |
@@ -61,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
