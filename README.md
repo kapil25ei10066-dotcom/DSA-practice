@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0907-sum-of-subarray-minimums) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
