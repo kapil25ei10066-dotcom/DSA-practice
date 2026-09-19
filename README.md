@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0503-next-greater-element-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0141-linked-list-cycle) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0605-can-place-flowers) |
 ## Design
