@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0496-next-greater-element-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0141-linked-list-cycle) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0225-implement-stack-using-queues) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0739-daily-temperatures) |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
