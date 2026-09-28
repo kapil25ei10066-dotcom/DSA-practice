@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0088-merge-sorted-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0409-longest-palindrome) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0088-merge-sorted-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
