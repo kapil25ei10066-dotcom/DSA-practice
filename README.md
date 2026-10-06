@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0503-next-greater-element-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
