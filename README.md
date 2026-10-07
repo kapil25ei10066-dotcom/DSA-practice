@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [2104-sum-of-subarray-ranges](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2104-sum-of-subarray-ranges) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
