@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0189-rotate-array) |
+| [0275-h-index-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0275-h-index-ii) |
 | [0496-next-greater-element-i](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0605-can-place-flowers) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0275-h-index-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0275-h-index-ii) |
 | [0704-binary-search](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0875-koko-eating-bananas) |
