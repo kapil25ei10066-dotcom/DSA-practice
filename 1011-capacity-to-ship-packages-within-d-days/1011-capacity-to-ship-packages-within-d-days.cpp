@@ -3,9 +3,9 @@ public:
     int reqdays(vector<int>& nums, int cap){
         int days=1; int load=0;
         for(int i=0;i<nums.size();i++){
-            if(nums[i]>cap){
+            /*if(nums[i]>cap){
                 return INT_MAX;
-            }
+            }*/
             if(load+nums[i]>cap){
                 days++;
                 load=nums[i];
