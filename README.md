@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0605-can-place-flowers) |
+| [0692-top-k-frequent-words](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0739-daily-temperatures) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0496-next-greater-element-i) |
+| [0692-top-k-frequent-words](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
@@ -229,10 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0692-top-k-frequent-words) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0014-longest-common-prefix) |
+| [0692-top-k-frequent-words](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0692-top-k-frequent-words) |
 ## Ternary Search
 |  |
 | ------- |
@@ -248,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -262,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
