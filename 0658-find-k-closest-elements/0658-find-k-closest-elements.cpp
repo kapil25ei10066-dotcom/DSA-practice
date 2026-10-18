@@ -4,8 +4,8 @@ public:
         struct cmp{
         bool operator()(pair<int,int>&a,pair<int,int>&b){
            if(a.first!=b.first){
-                return a.first<b.first;}
-            return a.second<b.second;
+                return a.first>b.first;}
+            return a.second>b.second;
            
         }
       };
@@ -14,16 +14,14 @@ public:
       for(int i=0;i<arr.size();i++){
         int dist=abs(x-arr[i]);
         pq.push({dist,arr[i]});
-        if(pq.size()>k){
-            pq.pop();
-        }
+      
       }
       vector<int>ans;
-      while(!pq.empty()){
+     for(int i=0; i<k;i++){
         ans.push_back(pq.top().second);
         pq.pop();
-      }
-      sort(ans.begin(), ans.end());
+     }
+    sort(ans.begin(), ans.end());
       return ans;
     }
 };
