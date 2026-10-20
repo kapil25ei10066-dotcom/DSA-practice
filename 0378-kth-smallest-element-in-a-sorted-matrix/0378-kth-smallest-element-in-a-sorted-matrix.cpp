@@ -1,31 +1,40 @@
 class Solution {
 public:
-    int kthSmallest(vector<vector<int>>& matrix, int k) {
-        int n=matrix.size();
-        int low=matrix[0][0]; int high=matrix[n-1][n-1]; int ans=-1;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            int count=0;
-            int row=0; int col=n-1;
-            while(row<=n-1 && col>=0){
-              if(matrix[row][col]<=mid){
-                count=count+(col+1);
-                row++;
-              }
-              else{
-                col--;
-              }
+    int kthSmallest(vector<vector<int>>& nums, int k) {
+        int m=nums.size();
+        int n=nums[0].size();
+        class node{
+            public:
+            int value;
+            int row;
+            int col;
+            node(int v, int i, int j){
+                value=v;
+                row=i;
+                col=j;
             }
-            if(count>=k){
-              ans=mid;
-              high=mid-1;
+            };
+            struct cmp{
+                bool operator()(const node &a,const node &b){
+                    return a.value>b.value;
+                }
+            };
+            priority_queue<node,vector<node>,cmp>pq;
+            for(int i=0; i<m;i++){
+             pq.push({nums[i][0],i,0});
             }
-            else{
-                low=mid+1;
+            vector<int>ans;
+            while(!pq.empty()){
+                ans.push_back(pq.top().value);
+                int col=pq.top().col;
+                int row=pq.top().row;
+                pq.pop();
+                if(col+1==n){
+                    continue;
+                }
+                pq.push({nums[row][col+1],row,col+1});
             }
-          
-        }
-        return ans;
 
+        return ans[k-1];
     }
 };
