@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0092-reverse-linked-list-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0973-k-closest-points-to-origin) |
@@ -310,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0703-kth-largest-element-in-a-stream) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
