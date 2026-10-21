@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0704-binary-search) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0621-task-scheduler) |
 ## Design
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0973-k-closest-points-to-origin) |
@@ -273,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0703-kth-largest-element-in-a-stream) |
