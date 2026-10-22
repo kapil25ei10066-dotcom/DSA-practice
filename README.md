@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0739-daily-temperatures) |
+| [0846-hand-of-straights](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0907-sum-of-subarray-minimums) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0692-top-k-frequent-words) |
+| [0846-hand-of-straights](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0846-hand-of-straights) |
 | [1189-maximum-number-of-balloons](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0846-hand-of-straights) |
 ## Design
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0692-top-k-frequent-words) |
+| [0846-hand-of-straights](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
