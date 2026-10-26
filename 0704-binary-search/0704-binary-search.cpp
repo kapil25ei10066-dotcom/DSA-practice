@@ -1,22 +1,16 @@
 class Solution {
 public:
+    int binsearch(vector<int>& nums, int target,int low, int high){
+        if (low > high) return -1;
+        int mid=low+(high-low)/2;
+        if(nums[mid]==target) return mid;
+
+        else if(nums[mid]<target) return binsearch(nums,target,mid+1,high);
+
+        else return binsearch(nums,target,low,mid-1);  
+        
+    }
     int search(vector<int>& nums, int target) {
-        if(nums.size()==1&&nums[0]!=target){
-         return -1;
-        }
-        int low=0; int high=nums.size()-1;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(nums[mid]==target){
-                return mid;
-            }
-            if(nums[mid]>target){
-                 high=mid-1;
-            }
-            else{
-                low=mid+1;
-            }
-        }
-        return -1;
+        return binsearch(nums,target,0,nums.size()-1);
     }
 };
