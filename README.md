@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0692-top-k-frequent-words) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0022-generate-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0907-sum-of-subarray-minimums) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
