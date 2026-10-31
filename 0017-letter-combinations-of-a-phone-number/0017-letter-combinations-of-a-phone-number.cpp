@@ -1,24 +1,7 @@
 class Solution {
 public:
-     vector<string> lc(string digits, vector<string>&ans,int idx,string temp, unordered_map<char, string> phoneMap){
-       if(idx==digits.length()){
-        ans.push_back(temp);
-        return ans;
-       }
-       auto choice=phoneMap[digits[idx]];
-       for(int j=0;j<choice.size();j++){
-        temp+=choice[j];
-        lc(digits,ans,idx+1,temp, phoneMap);
-        temp.pop_back();
-       }
-       return ans;
-     }
     vector<string> letterCombinations(string digits) {
-        vector<string>ans;
-        if(digits.size()==0){
-            return ans;
-        }
-       unordered_map<char, string> phoneMap = {
+      unordered_map<char, string> mpp = {
             {'2', "abc"},
             {'3', "def"},
             {'4', "ghi"},
@@ -28,9 +11,17 @@ public:
             {'8', "tuv"},
             {'9', "wxyz"}
         };
-        int idx=0; string temp="";
-
-        return  lc(digits,ans,idx,temp, phoneMap);
-       
+        vector<string>ans={""};
+       for(int i=0;i<digits.length();i++){
+           auto choice=mpp[digits[i]];
+           vector<string>temp;
+           for(int j=0;j<ans.size();j++){
+            for(int k=0;k<choice.length();k++){
+               temp.push_back(ans[j]+choice[k]);
+            }
+           }
+           ans=temp;
+       }
+      return ans;
     }
 };
