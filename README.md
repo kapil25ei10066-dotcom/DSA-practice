@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1922-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
