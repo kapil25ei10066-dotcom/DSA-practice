@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1539-kth-missing-positive-number) |
 | [2104-sum-of-subarray-ranges](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2643-row-with-maximum-ones](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0846-hand-of-straights) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Design
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1539-kth-missing-positive-number) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Trie
 |  |
 | ------- |
