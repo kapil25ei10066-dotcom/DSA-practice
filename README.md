@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2643-row-with-maximum-ones](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2643-row-with-maximum-ones) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
 | ------- |
