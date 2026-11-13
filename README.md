@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
@@ -183,11 +184,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0022-generate-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0846-hand-of-straights) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Design
 |  |
