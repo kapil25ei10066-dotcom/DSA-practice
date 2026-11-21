@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/kapil25ei10066-dotcom/DSA-practice/tree/master/2643-row-with-maximum-ones) |
